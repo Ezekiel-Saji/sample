@@ -1,3 +1,5 @@
 print("hello world")
 print("iam ezekiel saji")
 print("hi guys")
+for i in range(10):
+    print("hiiiii..")
